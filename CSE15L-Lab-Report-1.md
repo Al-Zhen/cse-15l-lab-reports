@@ -1,5 +1,4 @@
-# CSE 15L - Lab Report 1 
-## Alexander Zhen
+# CSE 15L - Lab Report 1 - Alexander Zhen
 
 > `cd` command, an example of using the command with *no* arguments.
 
