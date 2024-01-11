@@ -2,7 +2,7 @@
 
 > `cd` command, an example of using the command with *no* arguments.
 
-![Image](cd-noargument.PNG)
+![Image](cd1.PNG)
 
 > `cd` command, an example of using the command with a path to a *directory* as an argument.
 
