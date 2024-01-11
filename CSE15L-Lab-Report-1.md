@@ -14,7 +14,7 @@
 
 > `ls` command, an example of using the command with no arguments.
 
-![Image](l32.png)
+![Image](l32.PNG)
 
 > `ls` command, an example of using the command with a path to a *directory* as an argument.
 
