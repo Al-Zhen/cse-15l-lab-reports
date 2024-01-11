@@ -23,3 +23,15 @@
 > `ls` command, an example of using the command with a path to a *file* as an argument.
 
 ![Image](ls3.PNG)
+
+> `cat` command, an example of using the command with no arguments.
+
+![Image](cat1.PNG)
+
+> `cat` command, an example of using the command with a path to a *directory* as an argument.
+
+![Image](cat2.PNG)
+
+> `cat` command, an eaxample of using the command with a path to a *file* as an argument.
+
+![Image](cat3.PNG)
