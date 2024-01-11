@@ -74,5 +74,6 @@
 
 * The working directory used was in the */home* directory for the `cat` command with a path to a file as an argument.
 * Using the `cat` command with a path to a file as an argument gave us the contents of that specific file. In this case, the path was *lecture1/messages/en-us.txt* and that gave us the output of "Hello World!", which is the contents within that specific file (en-us.txt).
-* This would not be an error, because the `cat` command did print out the contents of a given path to a file.  
+* This would not be an error, because the `cat` command did print out the contents of a given path to a file.
+  
 ---
